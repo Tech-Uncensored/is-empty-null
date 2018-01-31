@@ -1,0 +1,11 @@
+{
+  "name": "is-empty-null",
+  "version": "1.0.0",
+  "description": "defines if string is empy or null (test package)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Kaufmann",
+  "license": "ISC"
+}
