@@ -26,3 +26,15 @@ console.log(isNullOrEmpty(null)) // true
 console.log(isNullOrEmpty(undefined)) // true
 
 console.log(isNullOrEmpty("Hello World")) // false
+```
+### Now to publish:
+
+- create acct at: https://www.npmjs.com
+- sign in at your terminal/CMD prompt using
+```terminal  
+npm login
+```
+- then type: 
+```
+npm publish
+```
